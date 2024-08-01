@@ -1,0 +1,21 @@
+// This is a JSON version of the .ods file, so that the code is able to read it.
+[
+    {
+        "title": "TookOff",
+        "artist": "SoFaygo",
+        "featured-artists": "Gunna, DJ Khaled",
+        "album": "Pink Heartz",
+        "start": "00:02:00",
+        "end": "00:17:00",
+        "link": "https://open.spotify.com/track/79du0WE9ZCX6p8QcaomVqG"
+    },
+    {
+        "title": "Cold.1",
+        "artist": "Kanye West",
+        "featured-artists": "DJ Khaled",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "start": "00:04:00",
+        "end": "00:10:00",
+        "link": "https://open.spotify.com/track/7jCkMZdvs8ABVd7fAHyQHM?si=139d64c72ce8482b"
+    }
+]
